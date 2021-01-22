@@ -1,0 +1,88 @@
+.navbar {
+	align-items: unset;
+	transition: all 0.1s ease;
+	transition: max-height 0.5s;
+	overflow: hidden;
+}
+
+/* .navbar-scroll {
+	background: rgba(246, 13, 79, 1);
+	opacity: 80%;
+  max-height: 10px;
+  font-size: 0.8rem;
+}
+
+.navbar-scroll:hover {
+  background: rgba(246, 13, 79, 1);
+	opacity: 100%;
+	max-height: 100%;
+  font-size: 1rem;
+} */
+
+.navbar-toggler-icon {
+	background-image: url("../images/burgerbar.svg") !important;
+}
+
+.navbar-toggler.left {
+	border: none;
+	background: #fff;
+	border-radius: 0px 0px 15px 0px;
+	padding: 1.5rem;
+}
+
+.nav-link {
+	color: white !important;
+	text-transform: uppercase;
+}
+
+.nav-item.active > .nav-link {
+	color: #fcfc54 !important;
+	border-bottom: 3px solid #fcfc54;
+}
+
+.nav-link:hover {
+	color: #fcfc54 !important;
+}
+
+.navbar-brand {
+	display: flex;
+	align-items: center;
+	/* background: #fff; */
+	border-radius: 0px 0px 0px 10px;
+	margin: 0;
+	padding: 0 1.2rem;
+}
+
+.navbar-brand.mobile {
+	background: #fff;
+}
+
+.navbar-brand > img {
+	height: 3rem;
+}
+
+#navbarNav {
+	transition: all 0.2s ease-out;
+	margin-left: 48px;
+}
+
+#navbarNav.mobile {
+	margin-left: 0;
+}
+
+#navbarNav.show {
+	background: #f60d4f;
+	padding-bottom: 100%;
+}
+
+#navbarNav.collapsing {
+	background: #f60d4f;
+}
+
+#navbarNavUl {
+	width: 800px;
+}
+
+#navbarNavUl.mobile {
+	width: 100%;
+}

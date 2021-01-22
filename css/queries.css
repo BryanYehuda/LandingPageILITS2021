@@ -1,0 +1,299 @@
+.responsive-size-72
+{
+    font-size: 72px;
+}
+
+.responsive-size-32
+{
+    font-size: 32px;
+}
+
+.responsive-size-30
+{
+    font-size: 30px;
+}
+
+.responsive-size-28
+{
+    font-size: 28px;
+}
+
+.responsive-size-20
+{
+    font-size: 20px;
+}
+
+.responsive-size-16
+{
+    font-size: 16px;
+}
+
+.responsive-size-16-pill
+{
+    font-size: 16px !important;
+}
+
+@media only screen and (max-width: 1184px) {
+    
+    #navbarNavUl
+    {
+        width: 700px;
+    } 
+    
+    #searchBox > .icon-container
+    {
+        padding: 14px;
+    }
+    
+    .responsive-size-72
+    {
+        font-size: 65px;
+    }
+    
+    .responsive-size-32
+    {
+        font-size: 29px;
+    }
+    
+    .responsive-size-30
+    {
+        font-size: 26px;
+    }
+    
+    .responsive-size-28
+    {
+        font-size: 24px;
+    }
+}
+
+@media only screen and (max-width: 1083px) {
+    
+    #navbarNavUl
+    {
+        width: 600px;
+    }
+    
+    #searchBox > .icon-container
+    {
+        padding: 12px;
+    }
+    
+    .responsive-size-72
+    {
+        font-size: 58.5px;
+    }
+    
+    .responsive-size-32
+    {
+        font-size: 28px;
+    }
+    
+    .responsive-size-30
+    {
+        font-size: 22px;
+    }
+    
+    .responsive-size-28
+    {
+        font-size: 23px;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    
+     #searchBox > .icon-container
+    {
+        padding: 11px;
+    }
+    
+    .responsive-size-72
+    {
+        font-size: 53px;
+    }
+    
+    .responsive-size-32
+    {
+        font-size: 30px;
+    }
+    
+    .responsive-size-30
+    {
+        font-size: 20px;
+    }
+    
+    .responsive-size-28
+    {
+        font-size: 19px;
+    }
+    
+    .responsive-size-20
+    {
+        font-size: 18px;
+    }
+    
+    .responsive-size-16
+    {
+        font-size: 15px;
+    }
+    
+    .responsive-size-16-pill
+    {
+        font-size: 15px !important;
+    }
+}
+
+@media only screen and (max-width: 739px) {
+    
+    #searchBox > .icon-container
+    {
+        padding: 9px;
+    }
+    
+    .responsive-size-72
+    {
+        font-size: 48px;
+    }
+    
+    .responsive-size-32
+    {
+        font-size: 27px;
+    }
+    
+    .responsive-size-30
+    {
+        font-size: 18px;
+    }
+    
+    .responsive-size-28
+    {
+        font-size: 17px;
+    }
+    
+    .responsive-size-20
+    {
+        font-size: 16px;
+    }
+}
+
+
+@media only screen and (max-width: 600px) {
+    
+    #searchBox
+    {
+        border: 3px solid #12042d;
+    }
+    
+     #searchBox > .icon-container
+    {
+        padding: 6px;
+        border-right: 3px solid #12042d;
+    }
+    
+    .responsive-size-72
+    {
+        font-size: 44px;
+    }
+    
+    .responsive-size-30
+    {
+        font-size: 14px;
+    }
+    
+    .responsive-size-20
+    {
+        font-size: 15px;
+    }
+}
+
+@media only screen and (max-width: 474px) {
+    .responsive-size-16
+    {
+        font-size: 14px;
+    }
+    
+    .responsive-size-16-pill
+    {
+        font-size: 14px !important;
+    }
+    
+     #searchBox > .icon-container
+    {
+        padding: 5px;
+    }
+    
+    .responsive-size-30
+    {
+        font-size: 12px;
+    }
+    
+    .responsive-size-20
+    {
+        font-size: 14px;
+    }
+}
+
+@media only screen and (max-width: 431px) {
+    .responsive-size-72
+    {
+        font-size: 36px;
+    }
+    
+    .responsive-size-32
+    {
+        font-size: 24px;
+    }
+}
+
+@media only screen and (max-width: 429px) {
+    .responsive-size-16
+    {
+        font-size: 12px;
+    }
+    
+    .responsive-size-16-pill
+    {
+        font-size: 12px !important;
+    }
+    
+    .responsive-size-32
+    {
+        font-size: 22px;
+    }
+    
+    .responsive-size-20
+    {
+        font-size: 13px;
+    }
+}
+
+@media only screen and (max-width: 384px) {
+    .responsive-size-72
+    {
+        font-size: 33px;
+    }
+    
+    .responsive-size-32
+    {
+        font-size: 20px;
+    }
+    
+    .responsive-size-16
+    {
+        font-size: 11px;
+    }
+    
+    .responsive-size-16-pill
+    {
+        font-size: 11px !important;
+    }
+    
+     #searchBox > .icon-container
+    {
+        padding: 3px;
+    }
+    
+    .responsive-size-20
+    {
+        font-size: 12px;
+    }
+}
