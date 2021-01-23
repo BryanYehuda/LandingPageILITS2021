@@ -32,7 +32,7 @@ function scrollEvent() {
 
 function main() {
 	if (window.innerWidth <= breakpoints["lg"]) {
-		image.src = "images/landing-header-sm.png";
+		image.src = "../assets/images/landing-header-sm.png";
 		image.style = "width: 100%; position: absolute; z-index: 0";
 
 		bpSelector.forEach(function (bpItem) {
@@ -41,7 +41,7 @@ function main() {
 
 		mobileContainer.classList.add("w-100");
 	} else {
-		image.src = "images/landing-header.png";
+		image.src = "../assets/images/landing-header.png";
 		image.style = "width: 85%; position: absolute; z-index: 0";
 
 		bpSelector.forEach(function (bpItem) {
