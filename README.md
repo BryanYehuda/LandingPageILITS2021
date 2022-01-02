@@ -1,4 +1,4 @@
-# LandingPageILITS2021
+# Landing Page ILITS 2021
 
 ## English
 This repository was created to accommodate the program code from the Template for the ILITS Landing Page. This is ITS! 2021. This repository is part of my job as an Expert Staff in the ILITS IT Dev Website Division. This is ITS! year 2021.
